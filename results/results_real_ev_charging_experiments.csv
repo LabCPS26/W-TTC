@@ -1,0 +1,661 @@
+dataset,experiment,x_label,x_value,n_e,n_c,capacity,profile_size,initial_assignment,iteration_number,seed,method,total_rank_improvement,execution_time,peak_memory_mb,cycle_count
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,1,20124,W-TTC,27,0.006126419,0.149043083,101
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,1,20124,ReACT-TTC,16,0.002275837,0.071670532,10
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,1,20124,TTC,16,0.00214559,0.071411133,10
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,2,20125,W-TTC,27,0.003971985,0.106811523,102
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,2,20125,ReACT-TTC,18,0.002665048,0.072532654,15
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,2,20125,TTC,18,0.002464176,0.072433472,15
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,3,20126,W-TTC,32,0.003573163,0.116163254,100
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,3,20126,ReACT-TTC,19,0.001849362,0.067710876,6
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,3,20126,TTC,19,0.001591418,0.068527222,6
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,4,20127,W-TTC,27,0.004512849,0.093822479,101
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,4,20127,ReACT-TTC,10,0.002116205,0.065406799,3
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,4,20127,TTC,10,0.001791284,0.065368652,3
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,5,20128,W-TTC,33,0.003728847,0.110584259,100
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,5,20128,ReACT-TTC,15,0.002470427,0.068603516,7
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,5,20128,TTC,15,0.002280112,0.068870544,7
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,6,20129,W-TTC,30,0.004005129,0.116760254,101
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,6,20129,ReACT-TTC,12,0.001791207,0.065620422,4
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,6,20129,TTC,12,0.001686408,0.065582275,4
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,7,20130,W-TTC,34,0.00333865,0.109604836,100
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,7,20130,ReACT-TTC,18,0.001947358,0.062667847,4
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,7,20130,TTC,18,0.001832993,0.0626297,4
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,8,20131,W-TTC,27,0.003216771,0.053199768,42
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,8,20131,ReACT-TTC,21,0.001491123,0.061531067,2
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,8,20131,TTC,21,0.001386285,0.06149292,2
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,9,20132,W-TTC,40,0.003829296,0.110445976,102
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,9,20132,ReACT-TTC,22,0.002665977,0.068054199,6
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,9,20132,TTC,22,0.002363064,0.068504333,6
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,10,20133,W-TTC,37,0.00413147,0.129675865,100
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,10,20133,ReACT-TTC,6,0.002164507,0.06552887,2
+combined_data_jd200_1.csv,varying_ev,Total EV,20,20,10,2,2,random,10,20133,TTC,6,0.001880999,0.065490723,2
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,1,40124,W-TTC,148,0.009733968,0.172934532,113
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,1,40124,ReACT-TTC,97,0.005895902,0.175865173,19
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,1,40124,TTC,97,0.005774629,0.175827026,19
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,2,40125,W-TTC,136,0.007587446,0.209091187,103
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,2,40125,ReACT-TTC,99,0.009116342,0.185409546,42
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,2,40125,TTC,99,0.008086072,0.185371399,42
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,3,40126,W-TTC,86,0.008815082,0.157745361,105
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,3,40126,ReACT-TTC,47,0.007516714,0.171325684,9
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,3,40126,TTC,47,0.00627809,0.171287537,9
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,4,40127,W-TTC,106,0.009444609,0.207210541,104
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,4,40127,ReACT-TTC,68,0.007706523,0.186286926,53
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,4,40127,TTC,68,0.007525019,0.186248779,53
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,5,40128,W-TTC,161,0.010352067,0.224892616,106
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,5,40128,ReACT-TTC,104,0.006917231,0.183990479,49
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,5,40128,TTC,104,0.006525344,0.183952332,49
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,6,40129,W-TTC,112,0.007826134,0.182282448,104
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,6,40129,ReACT-TTC,82,0.006455833,0.173072815,16
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,6,40129,TTC,82,0.005789786,0.172714233,16
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,7,40130,W-TTC,94,0.007182391,0.144431114,106
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,7,40130,ReACT-TTC,53,0.005939967,0.167419434,8
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,7,40130,TTC,53,0.005629321,0.167381287,8
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,8,40131,W-TTC,136,0.008960268,0.205338478,105
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,8,40131,ReACT-TTC,75,0.00774068,0.183631897,33
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,8,40131,TTC,75,0.006745149,0.18359375,33
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,9,40132,W-TTC,129,0.007345997,0.170017242,108
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,9,40132,ReACT-TTC,48,0.006979736,0.172409058,9
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,9,40132,TTC,48,0.006274847,0.172370911,9
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,10,40133,W-TTC,181,0.009406623,0.209792137,105
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,10,40133,ReACT-TTC,125,0.009648043,0.184089661,32
+combined_data_jd200_1.csv,varying_ev,Total EV,40,40,20,2,2,random,10,40133,TTC,125,0.009027424,0.184051514,32
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,1,60124,W-TTC,402,0.014744035,0.331969261,117
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,1,60124,ReACT-TTC,260,0.014985765,0.427088737,111
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,1,60124,TTC,260,0.013855428,0.427050591,111
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,2,60125,W-TTC,404,0.013293113,0.327009201,110
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,2,60125,ReACT-TTC,296,0.014782178,0.407858849,107
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,2,60125,TTC,296,0.013624096,0.409285545,107
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,3,60126,W-TTC,413,0.012607079,0.307513237,112
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,3,60126,ReACT-TTC,339,0.011952631,0.442944527,108
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,3,60126,TTC,339,0.01105841,0.44290638,108
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,4,60127,W-TTC,343,0.013188123,0.2629776,111
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,4,60127,ReACT-TTC,269,0.013344839,0.353027344,59
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,4,60127,TTC,269,0.016717907,0.358772278,59
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,5,60128,W-TTC,300,0.014843083,0.308359146,107
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,5,60128,ReACT-TTC,206,0.015098116,0.392967224,108
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,5,60128,TTC,206,0.014009666,0.392929077,108
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,6,60129,W-TTC,359,0.012510002,0.301299095,109
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,6,60129,ReACT-TTC,236,0.01509179,0.348976135,61
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,6,60129,TTC,236,0.014049921,0.348937988,61
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,7,60130,W-TTC,306,0.012206571,0.280776024,108
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,7,60130,ReACT-TTC,223,0.013708734,0.353721619,40
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,7,60130,TTC,223,0.012117847,0.353683472,40
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,8,60131,W-TTC,351,0.012777737,0.307896614,107
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,8,60131,ReACT-TTC,281,0.013305022,0.346611023,46
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,8,60131,TTC,281,0.012490087,0.346572876,46
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,9,60132,W-TTC,302,0.014412671,0.296067238,104
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,9,60132,ReACT-TTC,253,0.013748835,0.42382431,107
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,9,60132,TTC,253,0.011914125,0.423786163,107
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,10,60133,W-TTC,344,0.014361183,0.331594467,106
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,10,60133,ReACT-TTC,277,0.013332379,0.449924469,106
+combined_data_jd200_1.csv,varying_ev,Total EV,60,60,30,2,2,random,10,60133,TTC,277,0.01252573,0.448421478,106
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,1,80124,W-TTC,612,0.017198043,0.407752991,109
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,1,80124,ReACT-TTC,426,0.024794195,0.555999756,69
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,1,80124,TTC,426,0.023089275,0.555961609,69
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,2,80125,W-TTC,579,0.019013203,0.328974724,123
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,2,80125,ReACT-TTC,491,0.022229007,0.574904442,131
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,2,80125,TTC,491,0.020226834,0.574866295,131
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,3,80126,W-TTC,707,0.020147484,0.413892746,117
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,3,80126,ReACT-TTC,543,0.020190621,0.62719059,111
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,3,80126,TTC,543,0.018471522,0.628251076,111
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,4,80127,W-TTC,615,0.018000029,0.446660042,108
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,4,80127,ReACT-TTC,448,0.022489483,0.639956474,110
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,4,80127,TTC,448,0.020066303,0.638819695,110
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,5,80128,W-TTC,518,0.0212046,0.405261993,124
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,5,80128,ReACT-TTC,405,0.025024512,0.604999542,112
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,5,80128,TTC,405,0.023028175,0.604961395,112
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,6,80129,W-TTC,646,0.01908449,0.430322647,108
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,6,80129,ReACT-TTC,435,0.024920739,0.625346184,119
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,6,80129,TTC,435,0.022850764,0.625308037,119
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,7,80130,W-TTC,613,0.019484403,0.329482079,114
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,7,80130,ReACT-TTC,491,0.024065037,0.56887722,115
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,7,80130,TTC,491,0.021762394,0.568839073,115
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,8,80131,W-TTC,666,0.019802147,0.444185257,108
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,8,80131,ReACT-TTC,534,0.02227098,0.611750603,113
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,8,80131,TTC,534,0.0199009,0.611712456,113
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,9,80132,W-TTC,678,0.018215474,0.408999443,112
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,9,80132,ReACT-TTC,485,0.026374699,0.607821465,123
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,9,80132,TTC,485,0.024726579,0.608515739,123
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,10,80133,W-TTC,658,0.022060316,0.419592857,111
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,10,80133,ReACT-TTC,484,0.021934159,0.612751007,115
+combined_data_jd200_1.csv,varying_ev,Total EV,80,80,40,2,2,random,10,80133,TTC,484,0.020730656,0.611980438,115
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,1,100124,W-TTC,964,0.033080697,0.501101494,121
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,1,100124,ReACT-TTC,796,0.035316152,0.891207695,132
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,1,100124,TTC,796,0.032610826,0.890437126,132
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,2,100125,W-TTC,988,0.028431889,0.4896698,116
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,2,100125,ReACT-TTC,813,0.035574921,0.941324234,123
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,2,100125,TTC,813,0.032731547,0.941652298,123
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,3,100126,W-TTC,1062,0.026384347,0.572144508,117
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,3,100126,ReACT-TTC,837,0.035141447,0.959815979,119
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,3,100126,TTC,837,0.031415127,0.960144043,119
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,4,100127,W-TTC,1128,0.023025147,0.481436729,117
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,4,100127,ReACT-TTC,789,0.038848632,0.912011147,114
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,4,100127,TTC,789,0.034597625,0.911973,114
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,5,100128,W-TTC,1122,0.028564692,0.477477074,166
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,5,100128,ReACT-TTC,876,0.034095667,0.916982651,120
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,5,100128,TTC,876,0.030908804,0.916212082,120
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,6,100129,W-TTC,987,0.03021129,0.487921715,210
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,6,100129,ReACT-TTC,779,0.04127313,0.880013466,128
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,6,100129,TTC,779,0.037112831,0.88034153,128
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,7,100130,W-TTC,1049,0.029930313,0.541960716,123
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,7,100130,ReACT-TTC,846,0.043207729,0.94092083,156
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,7,100130,TTC,846,0.039051868,0.941248894,156
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,8,100131,W-TTC,1051,0.025451837,0.538567543,114
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,8,100131,ReACT-TTC,814,0.038620222,0.944040298,124
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,8,100131,TTC,814,0.035130114,0.944002151,124
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,9,100132,W-TTC,1042,0.024625554,0.498996735,118
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,9,100132,ReACT-TTC,801,0.037808279,0.926440239,126
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,9,100132,TTC,801,0.039631834,0.939143181,126
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,10,100133,W-TTC,950,0.025227021,0.522022247,111
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,10,100133,ReACT-TTC,717,0.035362861,0.918837547,116
+combined_data_jd200_1.csv,varying_ev,Total EV,100,100,50,2,2,random,10,100133,TTC,717,0.03193588,0.918066978,116
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,1,120124,W-TTC,1465,0.037865948,0.529322624,132
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,1,120124,ReACT-TTC,1198,0.053319983,1.253703117,130
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,1,120124,TTC,1198,0.050003051,1.25366497,130
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,2,120125,W-TTC,1464,0.037116958,0.516389847,151
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,2,120125,ReACT-TTC,1168,0.043751464,1.166791916,144
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,2,120125,TTC,1168,0.040499964,1.16711998,144
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,3,120126,W-TTC,1402,0.036302095,0.659246445,115
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,3,120126,ReACT-TTC,1140,0.041993514,1.253351212,120
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,3,120126,TTC,1140,0.038114935,1.253679276,120
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,4,120127,W-TTC,1649,0.032531882,0.605165482,141
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,4,120127,ReACT-TTC,1255,0.040734041,1.210755348,133
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,4,120127,TTC,1255,0.036733409,1.209984779,133
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,5,120128,W-TTC,1478,0.034198,0.571350098,126
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,5,120128,ReACT-TTC,1282,0.040643452,1.250693321,121
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,5,120128,TTC,1282,0.037777517,1.250655174,121
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,6,120129,W-TTC,1502,0.035348607,0.587676048,120
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,6,120129,ReACT-TTC,1272,0.049123997,1.21296978,129
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,6,120129,TTC,1272,0.035973946,1.205653191,129
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,7,120130,W-TTC,1437,0.030357163,0.626034737,120
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,7,120130,ReACT-TTC,970,0.049134674,1.24379158,119
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,7,120130,TTC,970,0.045697708,1.244119644,119
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,8,120131,W-TTC,1471,0.032204102,0.610235214,114
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,8,120131,ReACT-TTC,1094,0.04840329,1.220859528,123
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,8,120131,TTC,1094,0.043483913,1.220088959,123
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,9,120132,W-TTC,1675,0.031406868,0.650709152,116
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,9,120132,ReACT-TTC,1264,0.043662033,1.262074471,118
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,9,120132,TTC,1264,0.040883687,1.262036324,118
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,10,120133,W-TTC,1340,0.033683832,0.642525673,123
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,10,120133,ReACT-TTC,946,0.053555684,1.253549576,122
+combined_data_jd200_1.csv,varying_ev,Total EV,120,120,60,2,2,random,10,120133,TTC,946,0.047990014,1.25387764,122
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,1,140124,W-TTC,2123,0.041080681,0.812141418,116
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,1,140124,ReACT-TTC,1679,0.068099409,1.503949165,136
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,1,140124,TTC,1679,0.060251434,1.503911018,136
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,2,140125,W-TTC,2095,0.043517869,0.7615242,129
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,2,140125,ReACT-TTC,1597,0.059575345,1.552635193,135
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,2,140125,TTC,1597,0.05490344,1.552230835,135
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,3,140126,W-TTC,2217,0.035763673,0.68717289,121
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,3,140126,ReACT-TTC,1620,0.062251985,1.563821793,121
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,3,140126,TTC,1620,0.056316537,1.563783646,121
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,4,140127,W-TTC,2007,0.041041802,0.662987709,121
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,4,140127,ReACT-TTC,1595,0.060154646,1.556694031,123
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,4,140127,TTC,1595,0.054175672,1.556655884,123
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,5,140128,W-TTC,2053,0.045787867,0.698996544,119
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,5,140128,ReACT-TTC,1766,0.054598663,1.45866394,56
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,5,140128,TTC,1766,0.049328697,1.458259583,56
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,6,140129,W-TTC,1993,0.04114148,0.734115601,128
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,6,140129,ReACT-TTC,1557,0.059995512,1.531960487,148
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,6,140129,TTC,1557,0.059456336,1.543129921,148
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,7,140130,W-TTC,1889,0.039883051,0.691859245,121
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,7,140130,ReACT-TTC,1591,0.052312927,1.528220177,123
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,7,140130,TTC,1591,0.046957795,1.52818203,123
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,8,140131,W-TTC,2041,0.041081305,0.717914581,138
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,8,140131,ReACT-TTC,1683,0.051157495,1.548805237,125
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,8,140131,TTC,1683,0.046693981,1.549133301,125
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,9,140132,W-TTC,2275,0.040390745,0.714167595,134
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,9,140132,ReACT-TTC,1878,0.059016233,1.618505478,142
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,9,140132,TTC,1878,0.054084311,1.618467331,142
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,10,140133,W-TTC,1958,0.047119504,0.709781647,124
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,10,140133,ReACT-TTC,1665,0.067481936,1.535676956,131
+combined_data_jd200_1.csv,varying_ev,Total EV,140,140,70,2,2,random,10,140133,TTC,1665,0.059086321,1.535638809,131
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,1,160124,W-TTC,2722,0.053080516,0.814341545,123
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,1,160124,ReACT-TTC,2354,0.079696478,1.918834686,142
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,1,160124,TTC,2354,0.068262702,1.913455963,142
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,2,160125,W-TTC,2548,0.054204529,0.740218163,134
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,2,160125,ReACT-TTC,2139,0.07459172,1.881134033,156
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,2,160125,TTC,2139,0.067207748,1.881095886,156
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,3,160126,W-TTC,2582,0.05962634,0.770111084,137
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,3,160126,ReACT-TTC,2266,0.068909907,1.901504517,146
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,3,160126,TTC,2266,0.061328407,1.90146637,146
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,4,160127,W-TTC,2720,0.049459966,0.827301979,131
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,4,160127,ReACT-TTC,2115,0.064338248,1.959895134,134
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,4,160127,TTC,2115,0.058752307,1.959856987,134
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,5,160128,W-TTC,2449,0.054515964,0.768761635,124
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,5,160128,ReACT-TTC,1984,0.075279184,1.914899826,129
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,5,160128,TTC,1984,0.067220573,1.914861679,129
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,6,160129,W-TTC,2779,0.049769027,0.813661575,140
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,6,160129,ReACT-TTC,2278,0.071969594,1.8979702,147
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,6,160129,TTC,2278,0.066006177,1.897932053,147
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,7,160130,W-TTC,2839,0.04901335,0.805040359,122
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,7,160130,ReACT-TTC,2267,0.078453429,1.892757416,145
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,7,160130,TTC,2267,0.071167277,1.892719269,145
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,8,160131,W-TTC,2828,0.051533187,0.786634445,178
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,8,160131,ReACT-TTC,2408,0.07134912,1.915165901,143
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,8,160131,TTC,2408,0.058470057,1.904461861,143
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,9,160132,W-TTC,2642,0.058823346,0.720808029,138
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,9,160132,ReACT-TTC,2198,0.078473459,1.942396164,130
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,9,160132,TTC,2198,0.068538779,1.942358017,130
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,10,160133,W-TTC,2421,0.058180378,0.812064171,128
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,10,160133,ReACT-TTC,2069,0.072501961,1.916962624,143
+combined_data_jd200_1.csv,varying_ev,Total EV,160,160,80,2,2,random,10,160133,TTC,2069,0.066174058,1.916924477,143
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,1,180124,W-TTC,3598,0.063742044,0.943918228,138
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,1,180124,ReACT-TTC,3048,0.094416412,2.57763195,140
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,1,180124,TTC,3048,0.092238378,2.581751823,140
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,2,180125,W-TTC,3787,0.065851529,0.935574532,203
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,2,180125,ReACT-TTC,3013,0.105725144,2.612444878,159
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,2,180125,TTC,3013,0.097733059,2.612772942,159
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,3,180126,W-TTC,3711,0.058783675,0.899875641,143
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,3,180126,ReACT-TTC,3290,0.077608376,2.609869003,145
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,3,180126,TTC,3290,0.070399588,2.609464645,145
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,4,180127,W-TTC,3714,0.060617909,0.920351982,139
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,4,180127,ReACT-TTC,3225,0.088474004,2.610194206,130
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,4,180127,TTC,3225,0.087002243,2.618083,130
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,5,180128,W-TTC,3731,0.065050916,0.902481079,135
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,5,180128,ReACT-TTC,3161,0.086742419,2.546458244,148
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,5,180128,TTC,3161,0.076910398,2.546420097,148
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,6,180129,W-TTC,3712,0.059956156,0.977140427,126
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,6,180129,ReACT-TTC,3016,0.08581496,2.576512337,139
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,6,180129,TTC,3016,0.080358406,2.57647419,139
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,7,180130,W-TTC,3333,0.067485124,0.898539543,133
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,7,180130,ReACT-TTC,2823,0.10570874,2.626507759,126
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,7,180130,TTC,2823,0.088276429,2.62233448,126
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,8,180131,W-TTC,3698,0.062203344,0.935800552,128
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,8,180131,ReACT-TTC,3037,0.089466543,2.582333565,165
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,8,180131,TTC,3037,0.079737975,2.581929207,165
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,9,180132,W-TTC,3511,0.058726174,0.972076416,133
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,9,180132,ReACT-TTC,2799,0.088224627,2.587199211,134
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,9,180132,TTC,2799,0.08044236,2.586794853,134
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,10,180133,W-TTC,3579,0.0623166,1.044049263,130
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,10,180133,ReACT-TTC,3023,0.103553346,2.605701447,140
+combined_data_jd200_1.csv,varying_ev,Total EV,180,180,90,2,2,random,10,180133,TTC,3023,0.088553096,2.600154877,140
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,1,200124,W-TTC,4297,0.071959452,1.037502289,134
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,1,200124,ReACT-TTC,3657,0.103104495,3.028058052,166
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,1,200124,TTC,3657,0.094746655,3.028386116,166
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,2,200125,W-TTC,4145,0.074676161,0.976384163,160
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,2,200125,ReACT-TTC,3424,0.123673914,2.966190338,180
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,2,200125,TTC,3424,0.106045799,2.969326019,180
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,3,200126,W-TTC,4639,0.078615668,0.95929718,132
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,3,200126,ReACT-TTC,3983,0.12589257,3.031205177,148
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,3,200126,TTC,3983,0.112702146,3.031533241,148
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,4,200127,W-TTC,4260,0.076226976,0.999018669,222
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,4,200127,ReACT-TTC,3386,0.107760931,3.134199142,132
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,4,200127,TTC,3386,0.10492553,3.14103508,132
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,5,200128,W-TTC,4320,0.073845984,1.067001343,125
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,5,200128,ReACT-TTC,3635,0.116820298,3.06815815,139
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,5,200128,TTC,3635,0.103981119,3.067753792,139
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,6,200129,W-TTC,4610,0.071513515,1.004635811,132
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,6,200129,ReACT-TTC,3769,0.1210859,2.994808197,164
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,6,200129,TTC,3769,0.117085752,3.002483368,164
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,7,200130,W-TTC,4333,0.071959435,1.057052612,132
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,7,200130,ReACT-TTC,3568,0.128010647,3.048776627,138
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,7,200130,TTC,3568,0.114071918,3.049104691,138
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,8,200131,W-TTC,4113,0.07669211,0.973012924,166
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,8,200131,ReACT-TTC,3390,0.127818283,3.006438255,139
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,8,200131,TTC,3390,0.114232753,3.006766319,139
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,9,200132,W-TTC,4534,0.081400778,0.995281219,230
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,9,200132,ReACT-TTC,3806,0.109560635,3.034040451,150
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,9,200132,TTC,3806,0.097579748,3.033636093,150
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,10,200133,W-TTC,4784,0.074935579,1.00348568,138
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,10,200133,ReACT-TTC,4034,0.107186182,3.164550781,137
+combined_data_jd200_1.csv,varying_ev,Total EV,200,200,100,2,2,random,10,200133,TTC,4034,0.098410057,3.164146423,137
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,1,150124,W-TTC,1164,0.028949334,0.578931808,117
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,1,150124,ReACT-TTC,891,0.042387427,0.990885735,115
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,1,150124,TTC,891,0.037224545,0.991213799,115
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,2,150125,W-TTC,889,0.032737626,0.469331741,119
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,2,150125,ReACT-TTC,702,0.04544906,0.914271355,123
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,2,150125,TTC,702,0.03569002,0.903208733,123
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,3,150126,W-TTC,1083,0.027996219,0.490501404,119
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,3,150126,ReACT-TTC,822,0.03878639,0.872634888,121
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,3,150126,TTC,822,0.03441123,0.872596741,121
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,4,150127,W-TTC,1018,0.027171931,0.481783867,127
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,4,150127,ReACT-TTC,882,0.044373532,0.919854164,125
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,4,150127,TTC,882,0.035254637,0.919083595,125
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,5,150128,W-TTC,1045,0.026555169,0.451493263,117
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,5,150128,ReACT-TTC,913,0.04104822,0.856704712,162
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,5,150128,TTC,913,0.038175731,0.856666565,162
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,6,150129,W-TTC,917,0.025857423,0.535579681,111
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,6,150129,ReACT-TTC,732,0.032531443,0.917160988,118
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,6,150129,TTC,732,0.029284856,0.917489052,118
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,7,150130,W-TTC,1209,0.023759036,0.57657814,110
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,7,150130,ReACT-TTC,902,0.036049843,0.905938148,139
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,7,150130,TTC,902,0.033756558,0.90516758,139
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,8,150131,W-TTC,949,0.027854274,0.521147728,120
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,8,150131,ReACT-TTC,747,0.033267413,0.923153877,124
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,8,150131,TTC,747,0.029547154,0.922383308,124
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,9,150132,W-TTC,1045,0.029471641,0.487239838,121
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,9,150132,ReACT-TTC,891,0.033796364,0.968295097,119
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,9,150132,TTC,891,0.031597762,0.968623161,119
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,10,150133,W-TTC,982,0.027500392,0.505670547,122
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,10,150133,ReACT-TTC,809,0.034203234,0.929674149,123
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,50,100,50,2,2,random,10,150133,TTC,809,0.03070513,0.930002213,123
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,1,160124,W-TTC,1382,0.039018583,0.605095863,123
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,1,160124,ReACT-TTC,1181,0.038151117,1.039245605,137
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,1,160124,TTC,914,0.036862157,1.034580231,113
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,2,160125,W-TTC,1460,0.034321964,0.592309952,131
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,2,160125,ReACT-TTC,1292,0.05081553,1.03529644,147
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,2,160125,TTC,1057,0.036390564,0.965629578,66
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,3,160126,W-TTC,1317,0.057829071,0.450899124,158
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,3,160126,ReACT-TTC,1121,0.049007012,0.984542847,97
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,3,160126,TTC,810,0.043622868,0.959197998,36
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,4,160127,W-TTC,1458,0.043685649,0.500209808,137
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,4,160127,ReACT-TTC,1266,0.039024101,1.040315628,153
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,4,160127,TTC,1107,0.032726514,1.019355774,121
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,5,160128,W-TTC,1382,0.042383846,0.571890831,140
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,5,160128,ReACT-TTC,1246,0.038212368,1.012031555,140
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,5,160128,TTC,1028,0.03142335,0.971694946,114
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,6,160129,W-TTC,1411,0.042284174,0.519306183,128
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,6,160129,ReACT-TTC,1177,0.048600914,0.985733032,101
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,6,160129,TTC,970,0.041983919,0.959228516,44
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,7,160130,W-TTC,1465,0.036127912,0.569083214,128
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,7,160130,ReACT-TTC,1279,0.045578848,1.054954529,152
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,7,160130,TTC,1064,0.035716705,1.030796051,120
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,8,160131,W-TTC,1447,0.035845792,0.570252419,135
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,8,160131,ReACT-TTC,1264,0.061850887,0.994911194,105
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,8,160131,TTC,982,0.030677892,0.964012146,47
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,9,160132,W-TTC,1543,0.036194621,0.54763031,133
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,9,160132,ReACT-TTC,1381,0.052780951,1.00994873,154
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,9,160132,TTC,1152,0.036815514,0.970497131,74
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,10,160133,W-TTC,1380,0.039644926,0.476747513,131
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,10,160133,ReACT-TTC,1199,0.038169298,1.000747681,148
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,60,100,60,2,2,random,10,160133,TTC,961,0.039094984,0.979804993,125
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,1,170124,W-TTC,1686,0.051075082,0.579151154,134
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,1,170124,ReACT-TTC,1566,0.047443558,1.119728088,157
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,1,170124,TTC,1158,0.039589259,1.06867218,51
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,2,170125,W-TTC,1603,0.040622648,0.619400024,127
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,2,170125,ReACT-TTC,1438,0.033866933,1.117858887,104
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,2,170125,TTC,996,0.034754761,1.06072998,27
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,3,170126,W-TTC,1525,0.055970602,0.527943611,128
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,3,170126,ReACT-TTC,1374,0.037114159,1.114562988,96
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,3,170126,TTC,1013,0.041628143,1.064315796,31
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,4,170127,W-TTC,1646,0.076546457,0.527215958,127
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,4,170127,ReACT-TTC,1509,0.047666876,1.109191895,88
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,4,170127,TTC,1246,0.04401977,1.064224243,80
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,5,170128,W-TTC,1832,0.055087581,0.612452507,127
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,5,170128,ReACT-TTC,1708,0.049483537,1.114227295,104
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,5,170128,TTC,1272,0.039311076,1.065612793,29
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,6,170129,W-TTC,1696,0.051053148,0.497875214,140
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,6,170129,ReACT-TTC,1553,0.048361656,1.110328674,86
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,6,170129,TTC,1131,0.046893593,1.064857483,33
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,7,170130,W-TTC,1709,0.065121266,0.515788078,152
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,7,170130,ReACT-TTC,1594,0.044035737,1.1118927,135
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,7,170130,TTC,1256,0.03351495,1.066856384,52
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,8,170131,W-TTC,1630,0.062005358,0.523674965,137
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,8,170131,ReACT-TTC,1499,0.047839131,1.108551025,108
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,8,170131,TTC,1122,0.039393811,1.070243835,71
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,9,170132,W-TTC,1628,0.045179259,0.524931908,129
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,9,170132,ReACT-TTC,1489,0.043212529,1.113739014,143
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,9,170132,TTC,1219,0.027329856,1.064720154,36
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,10,170133,W-TTC,1538,0.058067618,0.584313393,132
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,10,170133,ReACT-TTC,1395,0.047357374,1.113304138,97
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,70,100,70,2,2,random,10,170133,TTC,999,0.036871094,1.066635132,32
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,1,180124,W-TTC,1760,0.063831918,0.657718658,127
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,1,180124,ReACT-TTC,1640,0.049180728,1.224624634,95
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,1,180124,TTC,1167,0.039926211,1.166664124,24
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,2,180125,W-TTC,1900,0.093681393,0.535972595,146
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,2,180125,ReACT-TTC,1817,0.058896739,1.228034973,83
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,2,180125,TTC,1351,0.045193721,1.167533875,82
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,3,180126,W-TTC,1850,0.064823157,0.469335556,145
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,3,180126,ReACT-TTC,1721,0.040499047,1.23462677,93
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,3,180126,TTC,1159,0.043341439,1.162841797,21
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,4,180127,W-TTC,2019,0.076967109,0.543532372,149
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,4,180127,ReACT-TTC,1891,0.051183695,1.229827881,98
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,4,180127,TTC,1370,0.036118804,1.171661377,23
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,5,180128,W-TTC,1920,0.074604684,0.481608391,145
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,5,180128,ReACT-TTC,1798,0.053550319,1.228729248,103
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,5,180128,TTC,1182,0.052696818,1.189361572,56
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,6,180129,W-TTC,1921,0.100673651,0.620390892,131
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,6,180129,ReACT-TTC,1817,0.052776726,1.232833862,87
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,6,180129,TTC,1303,0.046442729,1.169929504,22
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,7,180130,W-TTC,1946,0.063100681,0.600978851,133
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,7,180130,ReACT-TTC,1846,0.043502418,1.230606079,111
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,7,180130,TTC,1350,0.04018735,1.168273926,27
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,8,180131,W-TTC,2129,0.068412752,0.626426697,123
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,8,180131,ReACT-TTC,2005,0.048071339,1.237510681,92
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,8,180131,TTC,1654,0.041838273,1.208183289,74
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,9,180132,W-TTC,1890,0.070853717,0.464167595,139
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,9,180132,ReACT-TTC,1768,0.042814369,1.228378296,98
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,9,180132,TTC,1299,0.046045801,1.166923523,37
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,10,180133,W-TTC,1924,0.055470361,0.485412598,151
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,10,180133,ReACT-TTC,1830,0.049442342,1.226539612,118
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,80,100,80,2,2,random,10,180133,TTC,1355,0.047516111,1.147872925,32
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,1,190124,W-TTC,2217,0.088076165,0.5173769,155
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,1,190124,ReACT-TTC,2126,0.058667351,1.457305908,105
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,1,190124,TTC,1537,0.048492458,1.392951965,38
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,2,190125,W-TTC,2138,0.08700143,0.45311451,150
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,2,190125,ReACT-TTC,2054,0.053495232,1.460693359,139
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,2,190125,TTC,1490,0.041564363,1.380729675,29
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,3,190126,W-TTC,2334,0.104149986,0.519487381,149
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,3,190126,ReACT-TTC,2259,0.043017432,1.455444336,95
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,3,190126,TTC,1473,0.065651152,1.3802948,28
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,4,190127,W-TTC,2314,0.090882802,0.503547668,147
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,4,190127,ReACT-TTC,2209,0.050054562,1.469871521,103
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,4,190127,TTC,1493,0.056491518,1.393478394,26
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,5,190128,W-TTC,2094,0.115687136,0.476335526,144
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,5,190128,ReACT-TTC,1993,0.043636144,1.4582901,104
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,5,190128,TTC,1474,0.044252438,1.392204285,28
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,6,190129,W-TTC,2403,0.087300588,0.599932671,139
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,6,190129,ReACT-TTC,2294,0.059595399,1.469017029,104
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,6,190129,TTC,1686,0.052746056,1.384544373,24
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,7,190130,W-TTC,2259,0.06911508,0.518064499,177
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,7,190130,ReACT-TTC,2177,0.055203666,1.442596436,94
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,7,190130,TTC,1405,0.049585755,1.385498047,22
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,8,190131,W-TTC,2083,0.094363844,0.531367302,141
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,8,190131,ReACT-TTC,1981,0.058392304,1.463340759,91
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,8,190131,TTC,1445,0.051970387,1.391471863,23
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,9,190132,W-TTC,2065,0.077039617,0.59899044,126
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,9,190132,ReACT-TTC,1954,0.071619324,1.463798523,101
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,9,190132,TTC,1343,0.05287078,1.404762268,68
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,10,190133,W-TTC,2176,0.095370342,0.586931229,156
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,10,190133,ReACT-TTC,2077,0.046596213,1.463104248,103
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,90,100,90,2,2,random,10,190133,TTC,1541,0.045705592,1.386108398,29
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,1,200124,W-TTC,2575,0.093052599,0.596895218,160
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,1,200124,ReACT-TTC,2508,0.049772119,1.59941864,106
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,1,200124,TTC,1807,0.050900663,1.495513916,25
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,2,200125,W-TTC,2540,0.11781969,0.554107666,141
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,2,200125,ReACT-TTC,2436,0.058024233,1.577323914,105
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,2,200125,TTC,1718,0.04626182,1.502433777,18
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,3,200126,W-TTC,2393,0.112337459,0.550127983,171
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,3,200126,ReACT-TTC,2327,0.05278809,1.588150024,102
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,3,200126,TTC,1624,0.049547126,1.504119873,34
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,4,200127,W-TTC,2665,0.10643666,0.647769928,143
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,4,200127,ReACT-TTC,2601,0.053065804,1.588569641,101
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,4,200127,TTC,1811,0.054404315,1.502937317,37
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,5,200128,W-TTC,2416,0.090205263,0.617316246,140
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,5,200128,ReACT-TTC,2337,0.069426556,1.596725464,103
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,5,200128,TTC,1682,0.049463688,1.497177124,30
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,6,200129,W-TTC,2547,0.132112044,0.63078022,146
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,6,200129,ReACT-TTC,2467,0.065644071,1.570518494,116
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,6,200129,TTC,1794,0.048074975,1.495498657,31
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,7,200130,W-TTC,2364,0.123053382,0.516301155,155
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,7,200130,ReACT-TTC,2290,0.047862216,1.586204529,125
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,7,200130,TTC,1548,0.051234072,1.490226746,24
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,8,200131,W-TTC,2269,0.123419643,0.561540604,137
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,8,200131,ReACT-TTC,2175,0.057171858,1.586364746,102
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,8,200131,TTC,1666,0.044078637,1.500946045,26
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,9,200132,W-TTC,2160,0.116184581,0.475028992,147
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,9,200132,ReACT-TTC,2091,0.049338874,1.563682556,93
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,9,200132,TTC,1331,0.053168651,1.485351563,21
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,10,200133,W-TTC,2421,0.095350144,0.502349854,163
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,10,200133,ReACT-TTC,2322,0.052524312,1.577629089,101
+combined_data_jd200_1.csv,varying_cp,Total Charging Points,100,100,100,2,2,random,10,200133,TTC,1518,0.05324439,1.49937439,29
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,1,201124,W-TTC,1974,0.038623158,0.326694489,130
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,1,201124,ReACT-TTC,1700,0.05160583,1.495689392,15
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,1,201124,TTC,1700,0.046332417,1.494689941,15
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,2,201125,W-TTC,2067,0.040541492,0.430109978,115
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,2,201125,ReACT-TTC,1803,0.051840191,1.497955322,15
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,2,201125,TTC,1803,0.044388489,1.497261047,15
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,3,201126,W-TTC,2357,0.032980347,0.394675255,116
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,3,201126,ReACT-TTC,1859,0.053870945,1.494789124,19
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,3,201126,TTC,1859,0.046830461,1.495117188,19
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,4,201127,W-TTC,2081,0.034580268,0.366959572,119
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,4,201127,ReACT-TTC,1580,0.062113569,1.489677429,15
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,4,201127,TTC,1580,0.053400653,1.4896698,15
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,5,201128,W-TTC,2096,0.032721665,0.359137535,121
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,5,201128,ReACT-TTC,1743,0.04784125,1.495727539,14
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,5,201128,TTC,1743,0.043207978,1.494941711,14
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,6,201129,W-TTC,1977,0.038390399,0.43923378,115
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,6,201129,ReACT-TTC,1709,0.05354142,1.496063232,17
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,6,201129,TTC,1709,0.047974206,1.496025085,17
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,7,201130,W-TTC,1931,0.042393775,0.370967865,123
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,7,201130,ReACT-TTC,1705,0.064136354,1.492019653,16
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,7,201130,TTC,1705,0.051664905,1.492523193,16
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,8,201131,W-TTC,1810,0.047202095,0.355969429,134
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,8,201131,ReACT-TTC,1553,0.056466177,1.494796753,17
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,8,201131,TTC,1553,0.053306384,1.494102478,17
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,9,201132,W-TTC,2001,0.035792472,0.410430908,119
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,9,201132,ReACT-TTC,1601,0.045211429,1.495269775,15
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,9,201132,TTC,1601,0.040162588,1.49420929,15
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,10,201133,W-TTC,2203,0.038734891,0.44116497,120
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,10,201133,ReACT-TTC,1848,0.047408127,1.496292114,16
+combined_data_jd200_1.csv,varying_capacity,Capacity,1,100,100,1,2,random,10,201133,TTC,1848,0.042016724,1.495887756,16
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,1,202124,W-TTC,2362,0.137180287,0.494945526,146
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,1,202124,ReACT-TTC,2291,0.059268779,1.571403503,103
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,1,202124,TTC,1706,0.041555427,1.493003845,21
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,2,202125,W-TTC,2390,0.09108999,0.642186165,132
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,2,202125,ReACT-TTC,2306,0.054489435,1.582382202,114
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,2,202125,TTC,1648,0.053033025,1.495101929,26
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,3,202126,W-TTC,2590,0.11736472,0.508270264,161
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,3,202126,ReACT-TTC,2498,0.071110966,1.599525452,107
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,3,202126,TTC,1636,0.060292125,1.497238159,28
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,4,202127,W-TTC,2461,0.148535101,0.517621994,132
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,4,202127,ReACT-TTC,2386,0.057858736,1.598587036,105
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,4,202127,TTC,1514,0.07085594,1.49230957,25
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,5,202128,W-TTC,2358,0.127741046,0.552114487,144
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,5,202128,ReACT-TTC,2286,0.06190892,1.600212097,106
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,5,202128,TTC,1292,0.070401208,1.494613647,28
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,6,202129,W-TTC,2510,0.11661367,0.552061081,144
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,6,202129,ReACT-TTC,2439,0.055285879,1.585151672,101
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,6,202129,TTC,1745,0.053406011,1.472953796,22
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,7,202130,W-TTC,2376,0.09920645,0.63168335,124
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,7,202130,ReACT-TTC,2299,0.047082908,1.581718445,101
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,7,202130,TTC,1615,0.04478998,1.498542786,27
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,8,202131,W-TTC,2582,0.103343411,0.516536713,175
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,8,202131,ReACT-TTC,2499,0.051986519,1.597869873,109
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,8,202131,TTC,1603,0.065731427,1.473304749,19
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,9,202132,W-TTC,2344,0.10497811,0.542146683,163
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,9,202132,ReACT-TTC,2268,0.061949207,1.576126099,90
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,9,202132,TTC,1447,0.061520532,1.491256714,19
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,10,202133,W-TTC,2361,0.096306023,0.488426208,190
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,10,202133,ReACT-TTC,2280,0.046553592,1.597480774,113
+combined_data_jd200_1.csv,varying_capacity,Capacity,2,100,100,2,2,random,10,202133,TTC,1629,0.054378301,1.493713379,23
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,1,205124,W-TTC,2301,1.866712447,1.07800293,232
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,1,205124,ReACT-TTC,2301,0.711141171,1.936645508,214
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,1,205124,TTC,1648,0.048931865,1.49356842,36
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,2,205125,W-TTC,2208,2.118195667,1.070343018,320
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,2,205125,ReACT-TTC,2204,0.647233719,1.885040283,197
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,2,205125,TTC,1518,0.048556893,1.513946533,74
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,3,205126,W-TTC,2311,1.98448185,1.067321777,389
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,3,205126,ReACT-TTC,2308,0.589324224,1.895889282,189
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,3,205126,TTC,1564,0.055853061,1.505737305,31
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,4,205127,W-TTC,2315,1.849461621,1.038208008,200
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,4,205127,ReACT-TTC,2315,0.572340486,1.88004303,212
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,4,205127,TTC,1653,0.049476732,1.475730896,26
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,5,205128,W-TTC,2552,1.979258764,1.180809021,210
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,5,205128,ReACT-TTC,2550,0.592097889,1.896331787,260
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,5,205128,TTC,1864,0.047668674,1.485740662,35
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,6,205129,W-TTC,2340,1.878798358,1.115386963,215
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,6,205129,ReACT-TTC,2340,0.578823316,1.888000488,210
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,6,205129,TTC,1517,0.055548135,1.49508667,31
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,7,205130,W-TTC,2355,1.940994192,1.082740784,242
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,7,205130,ReACT-TTC,2350,0.675064537,1.915687561,246
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,7,205130,TTC,1513,0.068056422,1.474807739,28
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,8,205131,W-TTC,2402,2.134926047,1.099212646,242
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,8,205131,ReACT-TTC,2402,0.554940223,1.892524719,260
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,8,205131,TTC,1708,0.03787006,1.474220276,35
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,9,205132,W-TTC,2474,2.136256853,1.036247253,244
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,9,205132,ReACT-TTC,2470,0.691415442,1.944602966,221
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,9,205132,TTC,1678,0.050651256,1.499908447,47
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,10,205133,W-TTC,2381,1.8184235,1.073913574,400
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,10,205133,ReACT-TTC,2381,0.660310241,1.900474548,194
+combined_data_jd200_1.csv,varying_capacity,Capacity,5,100,100,5,2,random,10,205133,TTC,1608,0.058583772,1.49256134,25
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,1,302124,W-TTC,2295,0.117405574,0.490531921,156
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,1,302124,ReACT-TTC,2207,0.055796292,1.576370239,91
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,1,302124,TTC,1504,0.046142784,1.492675781,25
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,2,302125,W-TTC,2473,0.081839407,0.516083717,157
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,2,302125,ReACT-TTC,2387,0.053658714,1.566627502,160
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,2,302125,TTC,1587,0.047313725,1.473266602,20
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,3,302126,W-TTC,2519,0.099388682,0.532948494,204
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,3,302126,ReACT-TTC,2445,0.05711875,1.579498291,98
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,3,302126,TTC,1712,0.051474634,1.491699219,23
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,4,302127,W-TTC,2356,0.097832026,0.530918121,149
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,4,302127,ReACT-TTC,2287,0.052009061,1.59929657,97
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,4,302127,TTC,1398,0.061812825,1.501754761,29
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,5,302128,W-TTC,2446,0.107188637,0.528907776,154
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,5,302128,ReACT-TTC,2374,0.059900535,1.595817566,106
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,5,302128,TTC,1726,0.048088354,1.49621582,26
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,6,302129,W-TTC,2654,0.081233268,0.674196243,133
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,6,302129,ReACT-TTC,2580,0.053715736,1.58719635,131
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,6,302129,TTC,1917,0.046122735,1.488700867,22
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,7,302130,W-TTC,2595,0.118620467,0.560642242,157
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,7,302130,ReACT-TTC,2496,0.057088556,1.576217651,104
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,7,302130,TTC,1721,0.055110191,1.505638123,28
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,8,302131,W-TTC,2446,0.112052116,0.662037849,143
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,8,302131,ReACT-TTC,2375,0.0587213,1.581474304,135
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,8,302131,TTC,1825,0.038646535,1.490058899,22
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,9,302132,W-TTC,2549,0.111143665,0.59752655,136
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,9,302132,ReACT-TTC,2478,0.052953546,1.587127686,95
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,9,302132,TTC,1807,0.054678095,1.493515015,27
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,10,302133,W-TTC,2434,0.090599394,0.474853516,148
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,10,302133,ReACT-TTC,2354,0.070414786,1.599006653,112
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,2,100,100,2,2,random,10,302133,TTC,1748,0.041752892,1.504447937,31
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,1,305124,W-TTC,950,0.255800537,0.835765839,110
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,1,305124,ReACT-TTC,652,0.052116621,0.770957947,90
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,1,305124,TTC,329,0.02748865,0.719154358,14
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,2,305125,W-TTC,962,0.248751249,0.804645538,101
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,2,305125,ReACT-TTC,704,0.060959194,0.770591736,100
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,2,305125,TTC,256,0.029208223,0.72177124,14
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,3,305126,W-TTC,981,0.259562527,0.843244553,106
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,3,305126,ReACT-TTC,757,0.050643037,0.771240234,93
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,3,305126,TTC,248,0.045441891,0.720405579,10
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,4,305127,W-TTC,1014,0.292573731,0.837103844,110
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,4,305127,ReACT-TTC,761,0.054844581,0.77771759,88
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,4,305127,TTC,247,0.026608873,0.688552856,10
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,5,305128,W-TTC,939,0.205331603,0.805340767,112
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,5,305128,ReACT-TTC,676,0.055633115,0.773429871,79
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,5,305128,TTC,197,0.036997074,0.698524475,15
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,6,305129,W-TTC,1011,0.252691494,0.874585152,105
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,6,305129,ReACT-TTC,788,0.067133855,0.776763916,73
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,6,305129,TTC,311,0.03348162,0.72077179,18
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,7,305130,W-TTC,978,0.17293052,0.817792892,116
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,7,305130,ReACT-TTC,767,0.04644124,0.760269165,78
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,7,305130,TTC,290,0.032905618,0.714179993,13
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,8,305131,W-TTC,931,0.222592633,0.857214928,101
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,8,305131,ReACT-TTC,641,0.047689046,0.776237488,83
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,8,305131,TTC,194,0.031791242,0.714691162,12
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,9,305132,W-TTC,945,0.220499792,0.740375519,115
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,9,305132,ReACT-TTC,725,0.053479795,0.760055542,86
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,9,305132,TTC,254,0.026850897,0.697982788,10
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,10,305133,W-TTC,839,0.182767559,0.815475464,100
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,10,305133,ReACT-TTC,625,0.048812646,0.767814636,83
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,5,100,100,2,5,random,10,305133,TTC,171,0.024259382,0.681282043,10
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,1,310124,W-TTC,468,0.49559982,0.870758057,181
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,1,310124,ReACT-TTC,189,0.036425845,0.52457428,51
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,1,310124,TTC,66,0.013149189,0.485618591,5
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,2,310125,W-TTC,433,0.277418953,0.895874977,102
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,2,310125,ReACT-TTC,186,0.029977818,0.506607056,43
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,2,310125,TTC,16,0.015690064,0.43964386,2
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,3,310126,W-TTC,444,0.255157925,0.935475349,100
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,3,310126,ReACT-TTC,188,0.035404903,0.50945282,44
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,3,310126,TTC,51,0.01488448,0.460044861,6
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,4,310127,W-TTC,489,0.438471624,0.891494751,101
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,4,310127,ReACT-TTC,214,0.047715307,0.509742737,39
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,4,310127,TTC,49,0.016494981,0.45791626,10
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,5,310128,W-TTC,470,0.215141583,0.935311317,106
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,5,310128,ReACT-TTC,229,0.026505912,0.510978699,52
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,5,310128,TTC,42,0.012801571,0.432891846,3
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,6,310129,W-TTC,424,0.197325946,0.988497734,100
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,6,310129,ReACT-TTC,162,0.027167509,0.51399231,53
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,6,310129,TTC,45,0.014713976,0.459716797,6
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,7,310130,W-TTC,442,0.302775314,0.923431396,100
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,7,310130,ReACT-TTC,178,0.04008306,0.516731262,47
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,7,310130,TTC,37,0.011226278,0.437683105,5
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,8,310131,W-TTC,438,0.216429826,0.992554665,100
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,8,310131,ReACT-TTC,223,0.034510927,0.512634277,42
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,8,310131,TTC,56,0.012693733,0.463615417,9
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,9,310132,W-TTC,478,0.179152421,1.033680916,100
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,9,310132,ReACT-TTC,201,0.022536363,0.515190125,56
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,9,310132,TTC,78,0.015430802,0.459381104,7
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,10,310133,W-TTC,425,0.376984479,0.905268669,104
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,10,310133,ReACT-TTC,167,0.037725359,0.512733459,40
+combined_data_jd200_1.csv,varying_profile_size,Profile Size,10,100,100,2,10,random,10,310133,TTC,21,0.017511721,0.446914673,4
