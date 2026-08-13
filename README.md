@@ -113,16 +113,3 @@ PYTHONPATH=src_new:tools pdoc src_new/*.py tools/*.py -o docs
 Then open `docs/index.html` in a browser. This documents the algorithm modules,
 runners, and plotters without requiring a separate configuration file.
 
-
-## Virtual Environment
-
-If using the included local virtual environment:
-
-```bash
-source env_EV_TTC/bin/activate
-```
-If you are using the included virtual environment and `pdoc` is installed there:
-
-```bash
-PYTHONPATH=src_new:tools env_EV_TTC/bin/pdoc src_new/*.py tools/*.py -o docs
-```
